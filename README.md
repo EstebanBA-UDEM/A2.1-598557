@@ -29,8 +29,8 @@ valor de la AUC.
 6. Interpreta los resultados del modelo, describiendo cómo es que cada variable afecta a la
 salida, en términos de los coeficientes generados.
 
--[HTML](./A2_2-598557.html)
+-[HTML](./A2_1-598557.html)
 
--[Jupyter Notebook](./A2_2-598557.ipynb)
+-[Jupyter Notebook](./A2_1-598557.ipynb)
 
 -[Base de Datos](./USA%20Housing%20Dataset.csv)
